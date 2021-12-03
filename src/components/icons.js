@@ -1,3 +1,3 @@
-import { FaSearch,FaGlobe,FaChevronDown,FaUserCircle } from 'react-icons/fa';
+import { FaSearch,FaGlobe,FaChevronDown,FaUserCircle,FaUserFriends } from 'react-icons/fa';
 
-export { FaSearch,FaGlobe ,FaChevronDown,FaUserCircle};
+export { FaSearch,FaGlobe ,FaChevronDown,FaUserCircle,FaUserFriends};
