@@ -12,7 +12,6 @@ function Search() {
   const handleSelect = (dates) => {
     console.log(dates, "?");
     const { startDate, endDate } = dates.selection;
-    console.log(startDate, endDate, "??");
     setStartDate(startDate);
     setEndDate(endDate);
   };
